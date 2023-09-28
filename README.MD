@@ -19,7 +19,7 @@ You'll need to obtain an API key from [VisualCrossing Api](https://www.visualcro
     - Save the `.properties` file.
 4. Build and run WeatherApp  
 Now that you have your API key configured, you're ready to build and run the application with Android Studio
-
+> **_NOTE:_**  Please note that a minimum of Java 17 is required for the game to run correctly. Make sure you have Java 17 or a higher version installed on your system before launching the app.
 ## License & copyright
 
 © Duran Rehan 56055, HE2B - ESI
