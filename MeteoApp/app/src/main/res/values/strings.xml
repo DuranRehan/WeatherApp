@@ -1,0 +1,43 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">SunUpSky</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password" tools:ignore="UnusedResources">Password</string>
+    <string name="action_sign_in">Connexion</string>
+    <string name="action_sign_in_short" tools:keep="@string/action_sign_in_short">Sign in</string>
+    <string name="invalid_email">Invalid email address</string>
+    <string name="home">WEATHER INFORMATION</string>
+    <string name="home_drawer">WEATHER</string>
+    <string name="login">LOGIN</string>
+    <string name="about">ABOUT</string>
+
+    <!--    Long description string -->
+    <string name="about_app">
+        Duran Rehan, G56055
+        MOBG6 2022-2023
+    </string>
+    <string name="search">SEARCH WEATHER INFO</string>
+    <string name="search_drawer">SEARCH</string>
+    <string name="history_placeholder">History of search result :</string>
+    <string name="search_placeholder">City</string>
+    <string name="search_btn">Search</string>
+    <string name="search_info">
+        Find the city whose weather you would like to know by entering its name in the search field !
+    </string>
+    <string name="temp_format" temp_format="%1$s°C">" %1$s°C"</string>
+    <string name="feels_format" temp_format="%1$s°C">"%1$s°C"</string>
+    <string name="temp_min_max_format">"%1$s°C / %2$s°C"</string>
+    <string name="percent_format">"%1$s%%"</string>
+    <string name="pressure_format">"%1$s mbar"</string>
+    <string name="wind_format">"%1$s km/h"</string>
+    <string name="visibility_format">"%1$s km"</string>
+    <string name="share_btn">SHARE</string>
+    <string name="prevision_placeholder">Forecast for the next 15 days :</string>
+    <string name="shared_btn_text">The weather in %1$s is currently %2$s </string>
+    <string name="gps_network_not_enabled_title">Location settings of the phone is not enabled.\nPlease enable location settings :)</string>
+    <string name="gps_not_enabled_positive_button">Open setting</string>
+    <string name="gps_not_enabled_negative_button">Cancel</string>
+    <string name="wifi_network_not_enabled_title">The Network is disabled. Please enabled it</string>
+    <string name="wifi_not_enabled_positive_button">open settings</string>
+    <string name="wifi_not_enabled_negative_button">Cancel</string>
+</resources>
