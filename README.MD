@@ -15,7 +15,7 @@ You'll need to obtain an API key from [VisualCrossing Api](https://www.visualcro
   After obtaining your API key, you need to configure the application to use it. Follow these steps:
 
     - Locate the `.properties` file in your WeatherApp project directory, or create a new one.
-    - Paste your API key like this : `API_KEY=YOUR_API_KEY` 
+    - Paste your API key like this : `API_KEY="YOUR_API_KEY"` 
     - Save the `.properties` file.
 4. Build and run WeatherApp  
 Now that you have your API key configured, you're ready to build and run the application with Android Studio
